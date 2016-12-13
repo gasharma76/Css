@@ -1,5 +1,5 @@
 .video-js {position: static !important}}
 .video-js.vjs-mouse .vjs-big-play-button {
-      background-color: red;
+      background-color: green;
       opacity: .3;
     }
